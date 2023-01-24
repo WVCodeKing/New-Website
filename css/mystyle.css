@@ -1,0 +1,47 @@
+.vrBox {
+    padding-top: 130px;
+}
+
+.quote * {
+    padding-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.googleGlass {
+    padding-top: 50px;
+}
+
+#features h2 {
+    font-family: Sqaure1;
+}
+
+#features p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.vrBox * {
+    font-family: Minecraft;
+}
+
+h2.text-center {
+    font-family: Square1
+}
+
+@font-face {
+    font-family: Minecraft;
+    src: url(../assets/img/Minecrafter.ttf/);
+}
+
+@font-face {
+    font-family: Sqaure1;
+    src: url(../assets/img/squarefont/Square.ttf);
+}
+
+@font-face {
+    font-family: Prestige;
+    src: url(../assets/img/modern_prestige/Modern\ Prestige\ DEMO.otf);
+}
+
+section.cta {
+    background-image: url("../assets/img/META.jpg");
+}
