@@ -300,6 +300,7 @@ figure {
 img,
 svg {
   vertical-align: middle;
+  padding-top: 20px;
 }
 
 table {
@@ -7374,6 +7375,7 @@ textarea.form-control-lg {
 
 .mb-4 {
   margin-bottom: 1.5rem !important;
+  margin-top: 5rem;
 }
 
 .mb-5 {
@@ -11312,7 +11314,7 @@ html {
 
 aside,
 section {
-  padding-top: 5rem;
+  padding-top: 3rem;
   padding-bottom: 5rem;
 }
 

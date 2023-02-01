@@ -7,8 +7,21 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
+#meta {
+    background:
+}
+
 .googleGlass {
-    padding-top: 50px;
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+
+.linkers {
+    margin-left: 41.7;
+}
+
+.links a {
+    color: aquamarine;
 }
 
 #features h2 {
@@ -17,6 +30,7 @@
 
 #features p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
 }
 
 .vrBox * {
@@ -45,3 +59,22 @@ h2.text-center {
 section.cta {
     background-image: url("../assets/img/META.jpg");
 }
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  
+  img {
+    max-width: 100%
+  }
+  
+  .image {
+    flex-basis: 40%
+  }
+  
+  .text {
+    font-size: 10px;
+    padding-left: 20px;
+  }
